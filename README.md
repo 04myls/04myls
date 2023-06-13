@@ -1,21 +1,13 @@
-### Hi there 👋
-<a href="https://github.com/04myls">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=04myls&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/04myls">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=04myls&layout=compact&theme=dracula" />
-</a>
-<!--
-**04myls/04myls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋:octocat::octocat::octocat::octocat:
 
-Here are some ideas to get you started:
+<div style="text-align: left;">
+  <img alt="04myls's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=04myls&count_private=true&show_icons=true&theme=dracula" height="165px">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=04myls&layout=compact&theme=dracula" height="165px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=04myls&theme=dracula)
+
+
+
+
