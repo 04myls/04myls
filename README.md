@@ -1,6 +1,6 @@
 ## Hi there :octocat::octocat::octocat::octocat::octocat:
 
-![trophy](https://github-profile-trophy.vercel.app/?username=04myls&rank=B,C&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=04myls&rank=A,B,C&theme=tokyonight)
 
 <div style="text-align: left;">
   <img alt="04myls's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=04myls&count_private=true&show_icons=true&theme=tokyonight" height="165px">
