@@ -1,4 +1,4 @@
-## Hi there :octocat::octocat::octocat::octocat::octocat::octocat:
+## Hi there :octocat::octocat::octocat::octocat::octocat::octocat::octocat:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=04myls&rank=A,B,C&theme=tokyonight)
 
