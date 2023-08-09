@@ -1,5 +1,7 @@
 ## Hi there :octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:
 
+![](./images/octcat.gif)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=04myls&theme=tokyonight)
 
 <div style="text-align: left;">
@@ -13,3 +15,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=04myls&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=04myls&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=04myls&theme=tokyonight)
+
+
+
+![](./images/octcat.gif)
