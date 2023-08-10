@@ -1,6 +1,6 @@
 ## Hi there :octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:
 
-![](./images/octcat.gif)
+![](./images/octcat.gif)![](./images/octcat.gif)![](./images/octcat.gif)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=04myls&theme=tokyonight)
 
