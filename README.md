@@ -1,4 +1,4 @@
-## Hi there :octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:
+## Hi there :octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:
 
 ![](./images/octcat.gif)![](./images/octcat.gif)![](./images/octcat.gif)
 
